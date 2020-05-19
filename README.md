@@ -10,3 +10,5 @@ WordPress主题MDx非官方Hexo版
 1.[Hexo主题开发](https://www.cnblogs.com/yyhh/p/11058985.html）
 
 2.[Hexo官方文档](https://hexo.io/zh-cn/docs/themes)
+
+3.[从零开始制作Hexo主题](https://segmentfault.com/a/1190000008040387)
