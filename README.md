@@ -36,3 +36,5 @@ WordPress主题MDx非官方Hexo版
 12.[「这样玩Hexo」修改主题自定义实现界面和功能的自定义](https://www.cnblogs.com/RhinoC/p/10361822.html)
 
 13.[Hexo主题更改以及小功能的添加](https://blog.csdn.net/weixin_33922672/article/details/91425904)
+
+14.[hexo-theme-material主题](https://github.com/bolnh/hexo-theme-material)
