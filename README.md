@@ -38,3 +38,5 @@ WordPress主题MDx非官方Hexo版
 13.[Hexo主题更改以及小功能的添加](https://blog.csdn.net/weixin_33922672/article/details/91425904)
 
 14.[hexo-theme-material主题](https://github.com/bolnh/hexo-theme-material)
+
+15.[swig模板引擎语法](https://blog.csdn.net/Mrceel/article/details/97926011)
