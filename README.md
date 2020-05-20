@@ -3,6 +3,8 @@ Unofficial Hexo version of WordPress theme MDx
 
 WordPress主题MDx非官方Hexo版
 
+原主题仓库：https://github.com/yrccondor/mdx
+
 坑先开了，能力还没有。。。
 
 参考资料：
