@@ -26,3 +26,5 @@ WordPress主题MDx非官方Hexo版
 7.[Hexo-Next 主题博客个性化配置超详细，超全面(两万字)](https://blog.csdn.net/as480133937/article/details/100138838?)
 
 8.[hexo史上最全搭建教程](https://blog.csdn.net/sinat_37781304/article/details/82729029)
+
+9.[Hexo高级教程之插件开发](https://blog.csdn.net/melordljm/article/details/51985157)
