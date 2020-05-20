@@ -30,3 +30,9 @@ WordPress主题MDx非官方Hexo版
 8.[hexo史上最全搭建教程](https://blog.csdn.net/sinat_37781304/article/details/82729029)
 
 9.[Hexo高级教程之插件开发](https://blog.csdn.net/melordljm/article/details/51985157)
+
+10.[hexo主题—自定义样式](https://blog.csdn.net/qq_42595443/article/details/82263318)
+
+12.[「这样玩Hexo」修改主题自定义实现界面和功能的自定义](https://www.cnblogs.com/RhinoC/p/10361822.html)
+
+13.[Hexo主题更改以及小功能的添加](https://blog.csdn.net/weixin_33922672/article/details/91425904)
