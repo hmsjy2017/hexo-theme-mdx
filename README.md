@@ -43,3 +43,26 @@ WordPress主题MDx非官方Hexo版
 
 16.[Hexo主题开发经验杂谈](https://molunerfinn.com/make-a-hexo-theme/)
 
+17.[Hexo 主题开发指南 - 掘金](https://juejin.im/entry/576d662b0a2b580058f9c5d5)
+
+18.[Hexo 主题开发指南|Peak Xin's Blog](https://xinyufeng.net/2019/04/15/hexo-theme-guide/)
+
+19.[前端之路多坎坷 - hexo主题开发历程](https://www.m-finder.com/2018/08/30/about-web-view/)
+
+20.[从 0 到 1 开发 Hexo 主题杂谈](https://liuyib.github.io/2019/08/20/develop-hexo-theme-from-0-to-1/)
+
+21.[hexo 主题开发](https://wocai.de/post/2016/02/hexo-%E4%B8%BB%E9%A2%98%E5%BC%80%E5%8F%91/)
+
+22.[Hexo主题开发手记（1）](https://dp2px.com/2018/10/24/hexo-make-theme1/)
+
+23.[pug模板引擎（上）](https://dp2px.com/2018/10/22/hexo-pug/)
+
+[pug模板引擎（下）](https://dp2px.com/2018/10/23/hexo-pug2/)
+
+24.[制作Hexo主题详细教程（1）](http://blog.geekaholic.cn/2017/02/22/%E5%88%B6%E4%BD%9CHexo%E4%B8%BB%E9%A2%98%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B%EF%BC%881%EF%BC%89/)
+
+25.[Hexo主题开发和修改-理论篇](https://blog.xhyh.best/tutorial/hexo-theme-theory/)
+
+26.[写一个属于你自己的hexo主题](http://yidada.github.io/2016/07/27/%E5%A6%82%E4%BD%95%E5%86%99%E4%B8%80%E4%B8%AA%E5%B1%9E%E4%BA%8E%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84hexo%E4%B8%BB%E9%A2%98/)
+
+27.[Hexo 主题 Amber 开发与使用指南](https://juejin.im/post/5c1b4b69f265da611c26ef7c)
