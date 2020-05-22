@@ -68,3 +68,12 @@ WordPress主题MDx非官方Hexo版
 27.[Hexo 主题 Amber 开发与使用指南](https://juejin.im/post/5c1b4b69f265da611c26ef7c)
 
 28.[Hexo主题制作（一）](http://chenhanhui.com/2016/05/07/Hexo%E4%B8%BB%E9%A2%98%E5%88%B6%E4%BD%9C/)
+
+29.[从零开始定制hexo主题](https://maintao.c)om/2014/hexo-theme-from-scratch/
+
+30.[编写自己的 Hexo 主题](https://staunchkai.com/hexo_develop.html)
+
+31.[从零开发属于自己的 Hexo 主题](https://www.dazhuanlan.com/2019/09/25/5d8b754545414/)
+
+32.[新博客上线&Hexo主题开发入门](https://xuanwo.io/2016/06/29/new-blog-new-life/)
+
