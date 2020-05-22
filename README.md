@@ -66,3 +66,5 @@ WordPress主题MDx非官方Hexo版
 26.[写一个属于你自己的hexo主题](http://yidada.github.io/2016/07/27/%E5%A6%82%E4%BD%95%E5%86%99%E4%B8%80%E4%B8%AA%E5%B1%9E%E4%BA%8E%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84hexo%E4%B8%BB%E9%A2%98/)
 
 27.[Hexo 主题 Amber 开发与使用指南](https://juejin.im/post/5c1b4b69f265da611c26ef7c)
+
+28.[Hexo主题制作（一）](http://chenhanhui.com/2016/05/07/Hexo%E4%B8%BB%E9%A2%98%E5%88%B6%E4%BD%9C/)
