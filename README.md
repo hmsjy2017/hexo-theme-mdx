@@ -40,3 +40,6 @@ WordPress主题MDx非官方Hexo版
 14.[hexo-theme-material主题](https://github.com/bolnh/hexo-theme-material)
 
 15.[swig模板引擎语法](https://blog.csdn.net/Mrceel/article/details/97926011)
+
+16.[Hexo主题开发经验杂谈](https://molunerfinn.com/make-a-hexo-theme/)
+
