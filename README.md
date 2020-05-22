@@ -69,7 +69,7 @@ WordPress主题MDx非官方Hexo版
 
 28.[Hexo主题制作（一）](http://chenhanhui.com/2016/05/07/Hexo%E4%B8%BB%E9%A2%98%E5%88%B6%E4%BD%9C/)
 
-29.[从零开始定制hexo主题](https://maintao.c)om/2014/hexo-theme-from-scratch/
+29.[从零开始定制hexo主题](https://maintao.c)om/2014/hexo-theme-from-scratch/)
 
 30.[编写自己的 Hexo 主题](https://staunchkai.com/hexo_develop.html)
 
